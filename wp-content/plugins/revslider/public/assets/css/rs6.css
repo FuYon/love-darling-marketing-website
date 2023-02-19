@@ -41,11 +41,11 @@ rs-sbg-px { pointer-events: none }
 .rtl {	direction: rtl;}
 @font-face {
   font-family: 'revicons';
-  src: url('https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888');
-  src: url('https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
-	   url('https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888') format('woff'),
-	   url('https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888') format('truetype'),
-	   url('https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons') format('svg');
+  src: url('https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888');
+  src: url('https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
+	   url('https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888') format('woff'),
+	   url('https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888') format('truetype'),
+	   url('https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -345,10 +345,10 @@ rs-alyer *:not(.rs-wtbindex),
 
 /* CAROUSEL FUNCTIONS */
 rs-carousel-wrap {
-	cursor:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
+	cursor:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
 }
 rs-carousel-wrap.dragged {
-	cursor:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
+	cursor:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
 }
 
 rs-carousel-wrap.noswipe {
@@ -696,10 +696,10 @@ rs-module h6.rs-layer:before { content: none; }
 *********************************/
 rs-dotted						{	background-repeat:repeat;width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:3;display:block;pointer-events: none}
 rs-sbg-wrap rs-dotted 			{ z-index: 31 }
-rs-dotted.twoxtwo				{	background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/gridtile.png)}
-rs-dotted.twoxtwowhite			{	background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png)}
-rs-dotted.threexthree			{	background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png)}
-rs-dotted.threexthreewhite		{	background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png)}
+rs-dotted.twoxtwo				{	background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/gridtile.png)}
+rs-dotted.twoxtwowhite			{	background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png)}
+rs-dotted.threexthree			{	background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png)}
+rs-dotted.threexthreewhite		{	background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png)}
 
 
 /******************************
@@ -1022,8 +1022,8 @@ rs-progress-vis 				{ 	display:block;width: 100%;height: 100%; position: absolut
 
 .rs-layer.slidelink { cursor:pointer;width:100%;height:100%; }
 .rs-layer.slidelink a {	width:100%;height:100%;display:block}
-.rs-layer.slidelink a div {	width:3000px; height:1500px;  background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
-.rs-layer.slidelink a span{	background:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat; width:100%;height:100%;display:block}
+.rs-layer.slidelink a div {	width:3000px; height:1500px;  background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
+.rs-layer.slidelink a span{	background:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat; width:100%;height:100%;display:block}
 /*.tp-shape {	width:100%;height:100%;}*/
 
 
@@ -1101,7 +1101,7 @@ rs-loader.spinner0 {
 	width: 40px;
 	height: 40px;
 	background-color: #fff;
-	background-image:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/loader.gif);
+	background-image:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/loader.gif);
 	background-repeat:no-repeat;
 	background-position: center center;
 	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
@@ -1126,7 +1126,7 @@ rs-loader.spinner1 {
 
 
 rs-loader.spinner5 	{
-	background-image:url(https://fuyon.github.io/elytoys/wp-content/plugins/revslider/public/assets/assets/loader.gif);
+	background-image:url(https://toxictoys.raincloud.ink/wp-content/plugins/revslider/public/assets/assets/loader.gif);
 	background-repeat:no-repeat;
 	background-position:10px 10px;
 	background-color:#fff;

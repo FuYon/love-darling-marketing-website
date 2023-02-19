@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《示例页面》的评论	</title>
-	<atom:link href="https://fuyon.github.io/elytoys/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fuyon.github.io/elytoys</link>
+	<atom:link href="https://toxictoys.raincloud.ink/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toxictoys.raincloud.ink</link>
 	<description></description>
 	<lastBuildDate>Sun, 19 Feb 2023 03:51:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

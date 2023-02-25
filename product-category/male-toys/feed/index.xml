@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Male toys &#8211; elytoys</title>
+	<atom:link href="https://toxictoys.raincloud.ink/product-category/male-toys/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toxictoys.raincloud.ink</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Feb 2023 12:05:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>cccc</title>
+		<link>https://toxictoys.raincloud.ink/product/cccc/</link>
+					<comments>https://toxictoys.raincloud.ink/product/cccc/#respond</comments>
+		
+		<dc:creator><![CDATA[elyely]]></dc:creator>
+		<pubDate>Sat, 25 Feb 2023 12:05:40 +0000</pubDate>
+				<guid isPermaLink="false">https://toxictoys.raincloud.ink/?post_type=product#038;p=206</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-197" src="https://toxictoys.raincloud.ink/wp-content/uploads/2023/02/2346cf1e9c635ad90c44d8fcb31ab7fb.jpg" alt="" width="230" height="94" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://toxictoys.raincloud.ink/product/cccc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>bbb</title>
+		<link>https://toxictoys.raincloud.ink/product/bbb/</link>
+					<comments>https://toxictoys.raincloud.ink/product/bbb/#respond</comments>
+		
+		<dc:creator><![CDATA[elyely]]></dc:creator>
+		<pubDate>Sat, 25 Feb 2023 12:04:45 +0000</pubDate>
+				<guid isPermaLink="false">https://toxictoys.raincloud.ink/?post_type=product#038;p=204</guid>
+
+					<description><![CDATA[cccccc]]></description>
+										<content:encoded><![CDATA[<p>cccccc</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://toxictoys.raincloud.ink/product/bbb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

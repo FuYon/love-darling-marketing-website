@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>1</title>
-	<atom:link href="http://marketing.test/feed/?simply_static_page=113" rel="self" type="application/rss+xml" />
-	<link>https://toxictoys.raincloud.ink/</link>
+	<title>Love Darling &#8211; Best Sex Toys Seller Online</title>
+	<atom:link href="http://marketing.test/feed/?simply_static_page=637" rel="self" type="application/rss+xml" />
+	<link>https://love-darling.raincloud.ink/</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Feb 2023 06:22:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Feb 2023 13:29:47 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://love-darling.raincloud.ink/wp-content/uploads/2023/02/cropped-分组-10-2-1-32x32.png</url>
+	<title>Love Darling &#8211; Best Sex Toys Seller Online</title>
+	<link>https://love-darling.raincloud.ink/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>

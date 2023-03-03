@@ -2,6 +2,6 @@
 
 Brand name now changing to Love Darling from E.L.Y.(Team member: Esther, Lydia, Kevin Y)
 
-This web is built with Word Press.
+This web is built with elementor
 
 For Marketing Project Assignments, not for real bussiness.
